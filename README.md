@@ -86,3 +86,10 @@ BoneHit ();
 BoneHit ();
 
 Is it dead yet?
+
+var heal = function {
+
+removeAll (BoneHit (), WallSlam (), KickForce ()); 
+
+};
+heal ();
