@@ -4,7 +4,6 @@ textSize (30);
 text ("The little crap", 200, 200);
 textSize (9090000000000000000000);
 text ("I CAN'T BELIEVE MY BOI HOODEY GUY WAS KILLED BY SOME STUPID GUY", 200, 200);
-
 var WallSlam = function {
 
 locateApp (Discord);
@@ -15,6 +14,7 @@ inputForceNumber;
 
 WallSlam ();
 WallSlam ();
+
 WallSlam ();
 WallSlam ();
 WallSlam ();
@@ -24,6 +24,7 @@ WallSlam ();
 
 var Kick = function {
 locateApp (Discord);
+
 locateUser (GitHub);
 unit (megatons);
 inputForceNumber;
@@ -83,3 +84,5 @@ BoneHit ();
 BoneHit ();
 BoneHit ();
 BoneHit ();
+
+Is it dead yet?
